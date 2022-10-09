@@ -1,1 +1,1 @@
-# FSD-PROJECT
+# Compound Box-A university management platform
